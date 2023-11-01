@@ -1,4 +1,12 @@
-## Bem-vindo ao perfil de Rafaela Chaves
+## Hi there.
+
+Welcome to my page!
+I'm Rafaela Chaves, development studant from  Campinas, Brazil.
+
+<div>
+  <a href = "mailto:chs.rafa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/chaves-rafaela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
  <div>
    <a href="https://github.com/rafaelachaves">
@@ -14,7 +22,4 @@
 
 <br>
 
-<div>
-  <a href = "mailto:chs.rafa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/chaves-rafaela" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
